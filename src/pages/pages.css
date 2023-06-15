@@ -1,0 +1,58 @@
+.img{
+    background-image: url('../assets/Featured-Image-50.png');
+    background-size: cover;
+    height: 100vh;
+    padding: 15 15;
+    justify-content: center;
+    align-items: center;
+
+}
+h1{
+    size: 10px;
+}
+.row{
+    height: 100px;
+    padding: 25px;
+    justify-content: baseline;
+}
+.form{
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    padding: 30px;
+}
+.row :link{
+    padding: 5px;
+}
+.wholeBack{
+    background-color:bisque;
+    height: 100vh;
+    padding-top: 25%;
+    padding-left: 25%;
+    margin: 0;
+}
+ol{
+    margin-top: 0;
+}
+.overall{
+    background-color: violet;
+    width: 50%;
+    border-radius: 15%;
+    height: 35vh;
+    padding: 35px;
+    align-items: center;
+}
+
+
+.high {
+    background-color: red;
+    color: #fff;
+}
+.middle{
+    background-color: orange;
+    color: #fff;
+}
+.low {
+    background-color: green;
+    color: #fff;
+}
